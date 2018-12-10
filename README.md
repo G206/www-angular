@@ -1,3 +1,9 @@
+
+# Gabe's Personal Website
+## Written using Angular
+### This is a port of my existing personal site coded in Boostrap and jQuery.
+#### This site is used to showcase some of my class projects, assignments, and hobbies. If you wish to contact me, please email me at Gabe@w3dev.io
+
 # WwwAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
